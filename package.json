@@ -8,5 +8,10 @@
   },
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "checkly": "^6.2.0",
+    "jiti": "^2.6.1",
+    "@playwright/test": "^1.54"
+  }
 }
