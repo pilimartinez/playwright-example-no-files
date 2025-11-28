@@ -11,6 +11,7 @@
   "license": "ISC",
   "devDependencies": {
     "jiti": "^2.6.1",
-    "@playwright/test": "^1.54"
+    "@playwright/test": "^1.54",
+    "checkly": "^0.0.0-pr.1181.09d6700"
   }
 }
