@@ -8,9 +8,5 @@
   },
   "keywords": [],
   "author": "",
-  "license": "ISC",
-  "devDependencies": {
-    "jiti": "^2.6.1",
-    "@playwright/test": "^1.54"
-  }
+  "license": "ISC"
 }
